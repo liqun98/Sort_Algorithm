@@ -3,8 +3,8 @@
 //
 #include <vector>
 
-#ifndef RESTARTTOPRIMER_SORTALGO_H
-#define RESTARTTOPRIMER_SORTALGO_H
+#ifndef SORT_ALGORITHM_SORTALGO_H
+#define SORT_ALGORITHM_SORTALGO_H
 extern void bubbleSort(std::vector<int>&);
 extern void selectSort(std::vector<int>&);
 extern void insertSort(std::vector<int>&);
@@ -14,4 +14,4 @@ extern void quickSort(std::vector<int>&);
 extern void bucketSort(std::vector<int>&);
 extern void heapSort(std::vector<int>&);
 
-#endif //RESTARTTOPRIMER_SORTALGO_H
+#endif //SORT_ALGORITHM_SORTALGO_H
